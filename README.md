@@ -8,6 +8,8 @@ Biodiversity is in crisis, we know this because we have datasets from around the
 
 In this piece I work with biodiversity trends data from EIDC to both explore the uncertainty in species trends, and data gaps, in an emotive way.
 
+[![VIDEOEMBED](https://user-images.githubusercontent.com/3987564/178518353-b2667fe8-86fb-4bb6-a9da-c5c38fe5aea4.png)](https://www.youtube.com/watch?v=haMQJ0bhzJY)
+
 ### Why it is important to highlight on the particular issue? 
 
 Understanding these uncertainties and gaps is important for interpreting our State of nature assessments, these assessments are incomplete and really tell the story of those species that are well recorded by natural scientists. 
